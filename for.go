@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func forLoops() {
 
 	i := 1
 	for i <= 3 {
