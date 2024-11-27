@@ -5,7 +5,7 @@ import (
 	"slices"
 )
 
-func main() {
+func Slicesssss() {
 	var s []string
 	fmt.Println("uninit", s, s == nil, len(s) == 0)
 
